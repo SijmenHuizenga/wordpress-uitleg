@@ -11,6 +11,7 @@ Op dit moment zijn de volgende handleidingen beschikbaar. Klik op een om er naar
 
 #### Formulieren
 
-Als op jouw website de plugin Ninja Forms versie 2 actief is, dan zijn deze handleidingen interesant:
+Als op jouw website de plugin Ninja Forms versie 2 actief is, dan zijn deze handleidingen interessant:
 * [Formulier Toevoegen]({{ site.github.url }}/formulier-ninja2-toevoegen)
 * [Formulier Bewerken]({{ site.github.url }}/formulier-ninja2-bewerken)
+* [Formulier Inzendingen bekijken]({{ site.github.url }}/formulier-ninja2-inzendingen)
