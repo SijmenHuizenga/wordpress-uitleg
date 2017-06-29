@@ -3,3 +3,5 @@ Deze website bevat een aantal handleidingen/tutorials over hoe je je Wordpress w
 * [Inloggen in de achterkant van de website]({{ site.github.url }}/inloggen)
 * [Pagina tekst wijzigen]({{ site.github.url }}/pagina-wijzigen)
 * [Afbeelding in pagina toevoegen]({{ site.github.url }}/afbeelding-toevoegen)
+* [Nieuwe pagina toevoegen]({{site.github.url}}/pagian-toevoegen)
+* [Menu aanpassen]({{site.github.url}}/menu-aanpassen)
