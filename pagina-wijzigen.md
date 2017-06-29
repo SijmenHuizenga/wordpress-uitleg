@@ -5,6 +5,7 @@ TIP: Maak je geen zorgen over het maken van fouten! Je site maakt automatisch ba
 
 ### Stap 1
 In de linker menubalk klik op de knop `Pagina’s`. De knop ziet er zo uit:
+
 ![Pagina's weergeven knop]({{ site.github.url }}/assets/img/sidebar paginas.png)
 
 ### Stap 2
@@ -12,12 +13,14 @@ Zoek de pagina die je wil bewerken en klik op de titel van deze pagina. Nu opent
 
 ### Stap 3
 Wijzig de pagina. In onderstaande afbeelding zijn worden alle knopjes uitgelegd:
+
 ![Pagina bewerken]({{ site.github.url }}/assets/img/pagina bewerken.png)
 
 Het toevoegen van een afbeelding wordt [op deze pagina]({{site.github.url}}/afbeelding-toevoegen) verder uitgelegd.
 
 ### Tekst opmaken
 Net als in Office Word zijn er knoppen om de tekst op te maken. Ook kun je links in de tekst toevoegen. Onderstaande afbeelding laat alle knoppen zien:
+
 ![Tekst opmaken]({{ site.github.url }}/assets/img/tekst opmaken.png)
 
 ### Tekst grote
