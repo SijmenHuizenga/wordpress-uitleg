@@ -26,3 +26,5 @@ Dit is het bericht dat de gebruiker te zien krijgt bij het formulier op het mome
 Onder het tabje `Instellingen` heeft voor de normale gebruiker niet zo veel interessants. Hier zijn een aantal geavanceerde opties mogelijk. Het enige wat wel nuttig is, is dat hier de titel van het formulier aangepast kan worden!
 
 Dubbelklik op `Weergave` zodat er een veld verschijnt waar je de titel kan aanpassen. Wijzig hier de titel. Sla de wijziging op door op `Opslaan` te klikken.
+
+Dubbelklik op `Beperkingen` om het aantal inschrijvingen te limiteren. Bij het vakje `Limiteer inzendingen` kun je het maximaal aantal inzendingen opgeven. Vervolgens kun je eronder bij `Limiet Bereikt Bericht` een berichtje typen dat bezoekers te zien krijgen als het maximum al bereikt is. Sla de wijziging op door op `Opslaan` te klikken.
